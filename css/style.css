@@ -1,0 +1,87 @@
+#title{
+    background-color:#ff4c68 ;
+    color: whitesmoke;
+}
+#title h1{
+    font-family: 'Playfair Display', serif;
+}
+.icon{
+    color: #ef8172;
+    margin-left: 50px;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+.container-fluid{
+ padding:3% 15%;
+}
+#feature{
+    padding: 7% 17%  ;
+}
+#testimonial  img{
+    border-radius: 100%;
+    width: 16%;
+}
+#testimonial {
+    text-align: center;
+    background-color: #ef8172;
+}
+#testimonial h2{
+    font-family: 'Roboto Slab', serif;
+}
+#company{
+    background-color:#ef8172;
+}
+#company img{
+    width: 70%;
+    margin: 25% 10%;
+}
+#company h3{
+    text-align: center;
+    color: rgb(248, 240, 240);
+}
+#card h3{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    
+}
+#card h6{
+    text-align: center;
+    color: black;
+    size: 30px;
+    font-family: 'Crimson Text', serif;
+}
+.pic{
+    width: 262px;
+    height: 100px;
+}
+#card p{
+     text-align:center;
+}
+#footer {
+    margin-top: 35px;
+    padding: 7% 15%;
+    background-color: #ef8172;
+    color: white;
+}
+#footer a {
+    line-height: 2.5;
+    text-decoration: none;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.copy{
+    text-align: center;
+}
+.color {
+    color: #fff;
+    font-family: 'Montserrat-Bold';
+}
+.download-btn {
+    margin: 5% 3% 5% 0
+}
+#footer a:hover{
+    color: black;
+}
